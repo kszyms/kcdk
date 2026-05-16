@@ -4,4 +4,7 @@
 #define CH32V003 1
 #define FUNCONF_ENABLE_HPE 1
 
+#define FUNCONF_USE_DEBUGPRINTF 0
+#define FUNCONF_USE_UARTPRINTF  0
+
 #endif
